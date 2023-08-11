@@ -29,8 +29,20 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import flut from "./flut.png";
+import react from "./react.png";
+import node from "./node.png";
+import capture from './capture.png';
+import t from './t.png';
+import wa from "./wa.png";
 
 export {
+  wa,
+  t,
+  capture,
+  node,
+  react,
+  flut,
   logo,
   backend,
   creator,
