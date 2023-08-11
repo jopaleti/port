@@ -33,7 +33,7 @@ import flut from "./flut.png";
 import react from "./react.png";
 import node from "./node.png";
 import capture from './c.png';
-import t from './t.png';
+import t from './ta.png';
 import wa from "./wa.png";
 
 export {
