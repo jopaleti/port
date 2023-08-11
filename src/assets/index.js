@@ -32,7 +32,7 @@ import tripguide from "./tripguide.png";
 import flut from "./flut.png";
 import react from "./react.png";
 import node from "./node.png";
-import capture from './capture.png';
+import capture from './c.png';
 import t from './t.png';
 import wa from "./wa.png";
 
